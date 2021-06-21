@@ -1,4 +1,3 @@
-// const BitGo = require("bitgo");
-const BitGo11 = require("bitgo");
+const BitGo = require("bitgo");
 
 console.log(">>>>>")
